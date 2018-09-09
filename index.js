@@ -23,5 +23,5 @@ let i = 0;
 do{
   (emptyVariable[i] + "I Love the Beatles!"); i++
 } while (i < 15)
-return array
+return emptyVariable
 }
