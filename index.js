@@ -21,7 +21,7 @@ function iLoveTheBeatles(n){
 var emptyVariable = [];
 let i = 0;
 do{
-  emptyVariable.push(array[i] + "I Love the Beatles!");
-} while (n < 15; i++)
+  emptyVariable.push(array[i] + "I Love the Beatles!"; i++);
+} while (n < 15)
 return array
 }
