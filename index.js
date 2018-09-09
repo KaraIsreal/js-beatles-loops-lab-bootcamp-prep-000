@@ -19,9 +19,9 @@ return addExclamations
 
 function iLoveTheBeatles(array){
 var emptyVariable = [];
-let i = 0; i = i + 7;
+let i = 0; 
 do{
-  emptyVariable.push("I love the Beatles!"); i++
+  emptyVariable.push("I love the Beatles!"); i+ 8
 } while (i > 15)
 return emptyVariable
 }
