@@ -20,7 +20,7 @@ return addExclamations
 function iLoveTheBeatles(n){
 var emptyVariable = [];
 do{
-  emptyVariable.push("I love the Beatles!"); i++
+  emptyVariable.push("I love the Beatles!"); n++
 } while (n < 15)
 return emptyVariable
 }
