@@ -17,7 +17,7 @@ while (i < array.length){
 return addExclamations
 }
 
-function iLoveTheBeatles(n){
+function iLoveTheBeatles(array){
 var emptyVariable = [];
 let i = 0;
 do{
