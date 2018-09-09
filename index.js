@@ -22,6 +22,6 @@ var emptyVariable = [];
 let i = 0;
 do{
   emptyVariable.push("I love the Beatles!"); i++
-} while (i > 15)
+} while (i > 15; i > 7)
 return emptyVariable
 }
